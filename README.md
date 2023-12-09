@@ -1,1 +1,18 @@
-# gis_analysis_hamburg
+# Geospatial Data Analysis in Hamburg Area
+
+
+
+![DEM+Contour](layout/layout-DEM+Contour_hamburg.jpeg)
+DEM+Contour
+
+
+![ROI+POI](layout/layout-ROI+POI_hamburg.jpeg)
+ROI+POI
+
+
+![Slope](layout/layout-slope_hamburg.jpeg)
+Slope
+
+
+![Slope Aspect](layout/layout-slope_aspect_hamburg.jpeg)
+Slope Aspect
