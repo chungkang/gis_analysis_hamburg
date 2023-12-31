@@ -9,8 +9,11 @@ https://www.qgistutorials.com/en/docs/3/multi_criteria_overlay.html
 ![DEM+Contour](layout/layout-DEM+Contour_hamburg.jpeg)
 DEM+Contour
 
+![DEM3D](layout/layout-DEM_hillshade_3D.jpeg)
+DEM Hillshade 3D
+
 ![DEM3D](layout/layout-DEM_contour_3D.jpeg)
-DEM 3D Visulization
+DEM Contour 3D
 
 ![ROI+POI](layout/layout-ROI+POI_hamburg.jpeg)
 ROI+POI
