@@ -6,8 +6,8 @@ https://www.qgistutorials.com/en/docs/3/multi_criteria_overlay.html
 
 ## DEM Analysis
 
-![DEM+Contour](layout/layout-DEM+Contour_hamburg.jpeg)
-DEM+Contour
+![land_elevation_hamburg](layout/land_elevation_hamburg.jpeg)
+Land Elevation
 
 ![DEM3D](layout/layout-DEM_hillshade_3D.jpeg)
 DEM Hillshade 3D
