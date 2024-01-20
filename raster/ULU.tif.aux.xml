@@ -1,0 +1,49 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>lulc</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>open_space</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>non_residential</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>atomistic</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>informal_subdivision</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>formal_subdivision</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>housing_project</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.4945652173913043</HistMin>
+        <HistMax>91.4945652173913</HistMax>
+        <BucketCount>92</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>5029180|117019|954415|260346|148124|102967|74980|56694|44319|35710|29337|24918|21385|18272|16070|14056|12735|11667|10089|9581|8866|8246|7381|6801|6607|6053|5660|5421|5046|4792|4438|4255|4109|3934|3833|3562|3479|3281|3095|2986|2879|2780|2699|2610|2568|2309|2320|2189|2148|2184|2002|1998|1919|1796|1708|1786|1571|1618|1579|1539|1534|1400|1352|1296|1334|1254|1273|1186|1166|1057|951|906|806|802|771|695|640|618|576|509|406|352|311|245|191|148|95|66|44|13|10|2</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">91</MDI>
+      <MDI key="STATISTICS_MEAN">1.9664180376422</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">6.6187712532571</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Description>no_data</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <Description>road_lulc</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <Description>road</Description>
+  </PAMRasterBand>
+</PAMDataset>
