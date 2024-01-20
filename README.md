@@ -4,6 +4,10 @@
 https://www.qgistutorials.com/en/docs/3/multi_criteria_overlay.html
 
 
+## Figure Ground
+![figure_ground_oldtown_hamburg](layout/figure_ground_oldtown_hamburg.jpeg)
+
+
 ## DEM Analysis
 
 ![land_elevation_hamburg](layout/land_elevation_hamburg.jpeg)
